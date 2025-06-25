@@ -2,7 +2,7 @@
 
 ### Kerbal Space Program Two: Electric Joolabaloo
 
-A modpack for Kerbal Space Program, because KSP2 never happened and doesn't exist.
+A modpack for Kerbal Space Program, because KSP2 never happened and doesn't exist. A derivative of the [Community Lifeboat Project](https://github.com/mystwalkerKSP/Kerbal-Space-Program-Community-Lifeboat-Project).
 
 ---
 
