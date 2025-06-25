@@ -16,3 +16,13 @@ A modpack for Kerbal Space Program, because KSP2 never happened and doesn't exis
 
 Because KSP2 was bad, we made a better version of KSP2. Based on the Community Lifeboat Modpack (2), now with bugfixes, some additions like RealPlume, and some removals. This should be the only modpack you'll ever need.
 Recommended Blackracks Clouds (from Patreon or Discord) or Astronomer's Visual Pack. ♥️
+
+## Some notes on playing the game with this version (1.0) of the modpack:
+
+You'll need to customize the UI a bit, mostly to your preference. Take some time sorting out which hotbars you want the addons on. Certain addons will work better on Blizzy's toolbar, and others on the KSP AppLauncher toolbar (for example, I usually put Scansat and Chatterer on Blizzy's toolbar, and then move the toolbar to the bottom edge on the right third of the screen between the astronaut portraits and the navball). 
+
+KSP as a game is both harder and easier with this modpack. Probes are harder, science is easier (because there's more science to do) so the early game progression is a little bit less tedious (because, let's face it, KSP's early game isn't hard it's just tedious). Things are a bit more realistic but the solar system scale is unchanged. Flight is as easy as it ever was, or as difficult. I feel like making atmospherics harder in this game ends up reducing the number of viable designs to what's viable in the real world, which takes away a lot of the charm of KSP where you can abuse the game's physics to launch the Starship Enterprise made entirely out of Winglets and Stack Decouplers.
+
+There may be updates to this modpack in the future. I'm not sure if some mods are redundant or not at this stage, so you can see this version of the modpack as the 'testing' version. I'm also not entirely sure if it's possible to share KSP mod configs. If it is, I could upload my configs here. It depends on if people want my configs or not.
+
+Todo: find a part welding mod that works with all these mods.
